@@ -1103,8 +1103,7 @@ Både skader og krager, alliken med, blev skræmt ved skrig og skrål
 Både skader og krager, alliken med, blev skræmt ved skrig og skrål.
 Båden drev med strømmen
 Båden drev med strømmen.
-Båden fr af sted og rotten bag efter
-Båden fór af sted og rotten bag efter.
+Båden for af sted og rotten bag efter.
 Bælgen voksede og ærterne voksede
 Bælgen voksede og ærterne voksede.
 Bær det hellere bort
@@ -1750,7 +1749,7 @@ De sluttede om hans fødder
 De sluttede om hans fødder.
 De smilede og trykkede sig ved at svare.
 De smuttede mig om ørene, ligesom her fuglene i luften.
-De små fugle i buskene fr forskrækket i vejret
+De små fugle i buskene for forskrækket i vejret
 De små fugle sad oppe i kastanjetræerne og kvidrede kvivit, kvivit
 De små fugle sad oppe i kastanjetræerne og kvidrede kvivit, kvivit!
 De små grønne Eventyr
@@ -3662,7 +3661,7 @@ Det fortalte alt sammen i vor tid degnen.
 Det fortryd hende slet ikke, at hun vendte om, hun var bare ærgerlig
 Det fortryd hende slet ikke, at hun vendte om, hun var bare ærgerlig.
 Det forudsætter, at vi giver hinanden muligheder for at være ægte deltagere i fællesskabet.
-Det fr igennem mig, sagde skillingen
+Det for igennem mig, sagde skillingen
 Det fremgår videre, om prøven er bestået eller ikke er bestået
 Det fryser meget strengere end før
 Det frøs dr et par grader stærkere end inde i byen
@@ -5220,8 +5219,7 @@ En Herre kom hen imod dem.
 En Ko er Tyrens Madamme
 En Morgenstund susede Storkevingerne hen over Taget.
 En Vaskebjørn kan vaske Tingen
-En af de mindste fr hen og rev guldstjernen af
-En af de mindste fór hen og rev guldstjernen af.
+En af de mindste for hen og rev guldstjernen af.
 En af de rejsende havde vagt, medens de andre sov
 En aften blev det da et frygteligt vejr
 En aften blev det da et frygteligt vejr.
@@ -5363,7 +5361,7 @@ En vs mand er han, sagde hun til sig selv, det er godt
 En vís mand er han, sagde hun til sig selv, det er godt!
 En Østers har ikke til Verden Fiduus
 En ældre mand stod for det hele
-Endelig blev den ganske stille, der fr som en lynstråle gennem den
+Endelig blev den ganske stille, der for som en lynstråle gennem den
 Endelig fik de skoene af og benene kom i ro
 Endelig fik de skoene af og benene kom i ro.
 Endelig indtraf hun.
@@ -5492,7 +5490,6 @@ Et Aarstid havde hun været ude, saa sagde hendes Herskab til, hende.
 Et aarstid havde hun været ude, saa sagde hendes herskab til, hende
 Et af de lykkeligste
 Et af de lykkeligste!
-Et barn tl ville vorherre snart forunde dem
 Et barn tíl ville Vorherre snart forunde dem.
 Et billede fra kastelsvolden Eventyr
 Et blad fra Himmelen Eventyr
@@ -5515,8 +5512,7 @@ Et ord en skygge
 Et ord en skygge!
 Et par dage efter, forældrene var ved arbejde på herregården, holdt herskabsvognen udenfor
 Et par dage efter, forældrene var ved arbejde på herregården, holdt herskabsvognen udenfor.
-Et par fr ham lige ind i øjnene
-Et par fór ham lige ind i øjnene.
+Et par for ham lige ind i øjnene.
 Et par mennesker, i tidsalderens dragt, gik ham forbi
 Et par mennesker, i tidsalderens dragt, gik ham forbi.
 Et rent Talent.
@@ -5598,8 +5594,7 @@ Fem sanseevner er givet indad og udad, rod og top, legeme og sjæl
 Fine vine og stærke vine
 Firdusi endt er ærens tornevej
 Firdusi – endt er ærens tornevej!
-Fisken fr omkring, den gjorde de allerforfærdeligste bevægelser
-Fisken fór omkring, den gjorde de allerforfærdeligste bevægelser.
+Fisken for omkring, den gjorde de allerforfærdeligste bevægelser.
 Fiskene i den stod i stime belyst af solstrålerne
 Fjender skrev hans historie
 Fjender skrev hans historie.
@@ -6228,7 +6223,7 @@ Han forsøgte igen, sprang fra og faldt.
 Han fortjente prinsessen og det halve rige
 Han fortjente rigtig ikke at være her
 Han fortæller dig det som et eventyr
-Han fr frem med ild og sværd
+Han for frem med ild og sværd
 Han fulgte Batty.
 Han fylder ikke meget hvor han ligger
 Han fylder ikke meget hvor han ligger!
@@ -8460,7 +8455,7 @@ I fuld stads stod hun og Ib var i de daglige, gamle klæder.
 I fuld stads stod hun og ib var i de daglige, gamle klæder
 I første forskrækkelse råbte han højt
 I første øjeblik vidste drengen slet ikke, hvad han skulle gøre med sin fangst.
-I galop fr de rundt om græspletten
+I galop for de rundt om græspletten
 I galop kom i det samme to heste, de skulle vandes
 I galop kom i det samme to heste, de skulle vandes.
 I galop, i galop gik det
@@ -9379,7 +9374,6 @@ Jeg forstår ikke jeres bornholmsk
 Jeg forstår ikke jeres bornholmsk!
 Jeg forstår mig rigtignok aldeles ikke på det
 Jeg fortryder, at jeg fik jobbet. Jeg var glad for at være kunderådgiver.
-Jeg fr lige i det og læste
 Jeg frir til Dem!
 Jeg frir til dem
 Jeg fryser ihjel, jeg bliver til bare is
@@ -10543,7 +10537,7 @@ Kunstværket stod der livagtigt som da det var helt og urørt.
 Kurserne skal være forestået af instruktører registreret ved Dansk Førstehjælpsråd
 Kursister, der ikke følger disse regler, kan bortvises
 Kusk, tjenere og forridere, for der var også forridere, sad klædt i guldkroner
-Kusken svingede med pisken, hestene fr i galop, vognen var fyldt med døde
+Kusken svingede med pisken, hestene for i galop, vognen var fyldt med døde
 Kusken viste sig i døren.
 Kvinden led blandt andet af en stofskiftesygdom, diabetes samt problemer med knæ og fødder.
 Kvinder, der er i behandling med antipsykotika, skal undgå at blive gravide.
@@ -14110,7 +14104,7 @@ Rød og opdunstet så han ud
 Rød, gul, brun kom skoven snart til at se ud
 Røde, ja grønne og blegblå tårer græd den, og en råbuk kom forbi
 Rødlig skinnede himlen, det var mod daggry
-Røgen fr hen over brandstedet, vinden bar den bort
+Røgen for hen over brandstedet, vinden bar den bort
 Røgen kom feed op af Skorstenen.
 Røgen kom feed op af skorstenen
 Røgen trak hen under loftet og måtte selv se at finde ud
@@ -14467,7 +14461,7 @@ Skovkragen, der nu var blevet gift, fulgte med de første tre mil
 Skovkragen, der nu var blevet gift, fulgte med de første tre mil.
 Skreg de alle sammen
 Skreg frøknerne og slukkede i en hast
-Skreg han og fr ned for at få et styrtebad
+Skreg han og for ned for at få et styrtebad
 Skreg han, og sprang tilbage
 Skreg ungerne, da hun kom hen imod reden
 Skrevne sager er også brugelige
@@ -14609,8 +14603,7 @@ Som de bedst legede, kom der en stor slæde.
 Som du gør, er det altid det rigtige
 Som en hel røg stod den hende ud af munden
 Som en lille skinnende stjerne strålede det langt borte
-Som et vildt dyr fr en op af søvne, udstødende et fælt skrig
-Som et vildt dyr fór en op af søvne, udstødende et fælt skrig.
+Som et vildt dyr for en op af søvne, udstødende et fælt skrig.
 Som fuglene skreg det i borreby skov, da træerne bleve fældede
 Som gammel mand fornemmede han fra klaverets strenge melodier fra den svundne tid
 Som gammel mand fornemmede han fra klaverets strenge melodier fra den svundne tid.
